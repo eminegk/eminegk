@@ -14,7 +14,7 @@
 ✨ Passionate about coding and problem-solving since 2021 <br>
 📚 Currently learning: Currently learning AI and NLP techniques while improving my skills in Java and mobile development with Flutter <br>
 🎯 Goals for this year: Develop and launch a mobile app using Flutter and AI-based features <br>
-🎲 Fun fact: I have an unstoppable passion for learning... right after I spend3 hours watching tutorial videos and overthinking everything
+🎲 Fun fact: I have an unstoppable passion for learning... right after I spend 3 hours watching tutorial videos and overthinking everything
 </p>
 
 ###
